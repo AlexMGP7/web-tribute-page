@@ -37,8 +37,8 @@ Explore the timeline of John von Neumann's remarkable journey and contributions 
 
 To use the survey form, follow these steps:
 
-- 1️⃣ Clone the repository: git clone https://github.com/AlexMGP7/web_tribute_page.git
-- 2️⃣ Navigate to the project directory: cd web_tribute_page
+- 1️⃣ Clone the repository: git clone https://github.com/AlexMGP7/web-tribute-page.git
+- 2️⃣ Navigate to the project directory: cd web-tribute-page
 - 3️⃣ Open the index.html file in your preferred web browser.
 
 ---
